@@ -1,0 +1,24 @@
+.header-area {
+    background-color: rgba(0, 0, 0, 0.4);
+  }
+  
+  .portfolio-title .start {
+    text-align: start !important;
+    padding-left: 10%;
+  }
+  
+  .portfolio-title .end {
+    text-align: end !important;
+    padding-right: 10%;
+  }
+  
+  
+  @media only screen and (max-width: 767px) {
+    .portfolio-title .start {
+      padding-left: 0;
+    }
+    
+    .portfolio-title .end {
+      padding-right: 0;
+    }
+  }
