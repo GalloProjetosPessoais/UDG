@@ -1,24 +1,33 @@
 .header-area {
-    background-color: rgba(0, 0, 0, 0.4);
-  }
-  
+  background-color: rgba(0, 0, 0, 0.4);
+}
+
+.portfolio-title .start {
+  text-align: start !important;
+  padding-left: 10%;
+}
+
+.portfolio-title .end {
+  text-align: end !important;
+  padding-right: 10%;
+}
+
+
+@media only screen and (max-width: 767px) {
   .portfolio-title .start {
-    text-align: start !important;
-    padding-left: 10%;
+    padding-left: 0;
   }
-  
+
   .portfolio-title .end {
-    text-align: end !important;
-    padding-right: 10%;
+    padding-right: 0;
   }
   
-  
-  @media only screen and (max-width: 767px) {
-    .portfolio-title .start {
-      padding-left: 0;
-    }
-    
-    .portfolio-title .end {
-      padding-right: 0;
-    }
+  .hero-slides .single-hero-slide .hero-slides-content .btn {
+    background-color: white;
   }
+}
+
+
+.hero-slides .single-hero-slide .hero-slides-content .btn:hover {
+  font-size: 1rem;
+}

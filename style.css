@@ -437,7 +437,7 @@ img {
 .sonar-btn:hover,
 .sonar-btn:focus {
   background-color: #2f2f2f;
-  font-size: 12px;
+  font-size: 1rem;
   color: #ffffff;
 }
 

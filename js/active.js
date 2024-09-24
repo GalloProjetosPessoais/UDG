@@ -57,7 +57,7 @@
         var welcomeSlide = $('.hero-slides');
 
         $('.hero-slides').owlCarousel({
-            items: 4,
+            items: 3,
             margin: 0,
             loop: true,
             dots: false,
@@ -73,9 +73,6 @@
                 },
                 992: {
                     items: 3
-                },
-                1600: {
-                    items: 4
                 }
             }
         });
