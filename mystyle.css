@@ -21,14 +21,11 @@
   .portfolio-title .end {
     padding-right: 0;
   }
-  
-  .hero-slides .single-hero-slide .hero-slides-content .btn {
-    background-color: white;
-  }
 }
 
 .hero-slides .single-hero-slide .hero-slides-content .btn:hover {
   font-size: 1rem;
+  color: black;
 }
 
 .hero-slides .single-hero-slide .hero-slides-content p {
