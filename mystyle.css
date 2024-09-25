@@ -32,3 +32,10 @@
   backdrop-filter: blur(5px);
   border-radius: 15px;
 }
+
+@media only screen and (max-width: 767px) {
+  .about-us {
+    height: auto !important;
+    padding-bottom: 100px !important;
+  }
+}

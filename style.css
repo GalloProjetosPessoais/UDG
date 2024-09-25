@@ -1331,11 +1331,6 @@ img {
   .hero-area .hero-content {
     height: 95dvh;
   }
-
-  .about-us {
-    height: auto !important;
-    padding-bottom: 100px !important;
-  }
 }
 
 .hero-area .hero-thumbnail.aboutUs::before {
