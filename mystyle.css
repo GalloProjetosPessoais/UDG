@@ -12,6 +12,10 @@
   padding-right: 10%;
 }
 
+.section-heading h2 {
+  font-size: 40px;
+}
+
 
 @media only screen and (max-width: 767px) {
   .portfolio-title .start {
@@ -38,4 +42,13 @@
     height: auto !important;
     padding-bottom: 100px !important;
   }
+
+  .section-heading h2 {
+    font-size: 30px;
+  }
+}
+
+.line-1 {
+  line-height: 1.4;
+  margin-bottom: 10px;
 }

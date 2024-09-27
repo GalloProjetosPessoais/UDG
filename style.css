@@ -1841,14 +1841,14 @@ img {
 }
 
 .sonar-about-us-area .about-us-content {
-  padding: 15px 100px 100px;
-  margin-left: 100px;
+  padding: 100px;
+  /* margin-left: 100px; */
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .sonar-about-us-area .about-us-content {
     padding: 15px 30px 100px;
-    margin-left: 50px;
+    /* margin-left: 50px; */
   }
 }
 
@@ -1861,7 +1861,7 @@ img {
 @media only screen and (max-width: 767px) {
   .sonar-about-us-area .about-us-content {
     margin-left: 0;
-    padding: 15px 20px 100px;
+    padding: 70px 20px 100px;
   }
 }
 
@@ -1903,7 +1903,7 @@ img {
 .sonar-about-us-area.second-part .about-us-content {
   padding: 100px;
   margin-left: 0;
-  margin-right: 100px;
+  /* margin-right: 100px; */
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
