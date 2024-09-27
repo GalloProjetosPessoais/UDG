@@ -1,10 +1,10 @@
 Company introduction
-**Introduction**
- "At Unique Design Group we craft unique, high-end designs that elevate spaces into works of art. Our team blends innovation with precision to transform your vision into reality."
+**Introduction** (used in about)
+    "At Unique Design Group we craft unique, high-end designs that elevate spaces into works of art. Our team blends innovation with precision to transform your vision into reality."
 
-*What You Do**
-"We specialize in luxury interior design, custom ceiling installations, Stretch Ceiling, Epoxy Flooring and Remodeling,  personalized space planning. Our expertise spans from initial concept to final execution, ensuring a seamless design experience.
-"We believe that great design is about more than aesthetics—it's about creating environments that inspire and enhance daily life. With meticulous attention to detail and a passion for luxury materials, we ensure each project reflects our clients' unique style and needs.
+*What You Do** (used in about)
+    "We specialize in luxury interior design, custom ceiling installations, Stretch Ceiling, Epoxy Flooring and Remodeling,  personalized space planning. Our expertise spans from initial concept to final execution, ensuring a seamless design experience.
+    "We believe that great design is about more than aesthetics—it's about creating environments that inspire and enhance daily life. With meticulous attention to detail and a passion for luxury materials, we ensure each project reflects our clients' unique style and needs.
 
 ". **Experience & Expertise*
 With over a decade of experience in the design industry, Unique Design Group has built a reputation for excellence. Our portfolio includes award-winning residential and commercial projects, all tailored to meet the highest standards of luxury and sophistication..
@@ -15,11 +15,10 @@ With over a decade of experience in the design industry, Unique Design Group has
  
 Unique Design Group:
 
-For over two decades, we're honed our skills across a wide range of remodeling projects, from simple upgrades to complete home transformation. Our Experience ensures that your project is in expert hands. 
-
-As a fully licensed and insured General Contractor, we meet and exceed industry standards, ensuring your project is compliant, safe and built to last. 
-
-At Unique Design Group we are committed to providing the best service through continuous growth and improvement. Our team regularly participates in professional development, attending classes, workshops, and certification programs to stay updated on the latest techniques and design trends in the remodeling industry. This ensures that we bring the most innovative and high-quality solutions to your project, combining modern designs with expert craftsmanship. 
+Used in about
+    For over two decades, we're honed our skills across a wide range of remodeling projects, from simple upgrades to complete home transformation. Our Experience ensures that your project is in expert hands. 
+    As a fully licensed and insured General Contractor, we meet and exceed industry standards, ensuring your project is compliant, safe and built to last. 
+    At Unique Design Group we are committed to providing the best service through continuous growth and improvement. Our team regularly participates in professional development, attending classes, workshops, and certification programs to stay updated on the latest techniques and design trends in the remodeling industry. This ensures that we bring the most innovative and high-quality solutions to your project, combining modern designs with expert craftsmanship. 
 
 
 
