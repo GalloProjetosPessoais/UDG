@@ -15,8 +15,8 @@
     <link rel="icon" href="img/unique_logo_2.png">
 
     <!-- Style CSS -->
-    <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="mystyle.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/mystyle.css">
 
 </head>
 
@@ -173,23 +173,23 @@
                         <h2>We are an Experienced Group</h2>
                         <h4>Let’s talk</h4>
 
-                        <form action="#" method="post">
+                        <form id="contact-form">
                             <div class="row">
                                 <div class="col-12 col-md-4">
                                     <div class="form-group">
-                                        <input type="text" class="form-control" id="contact-name"
+                                        <input type="text" class="form-control" id="contact_name" name="contact_name"
                                             placeholder="Your Name">
                                     </div>
                                 </div>
                                 <div class="col-12 col-md-4">
                                     <div class="form-group">
-                                        <input type="email" class="form-control" id="contact-email"
+                                        <input type="email" class="form-control" id="contact_email" name="contact_email"
                                             placeholder="Your Email">
                                     </div>
                                 </div>
                                 <div class="col-12 col-md-4">
                                     <div class="form-group">
-                                        <input type="text" class="form-control" id="contact-email"
+                                        <input type="text" class="form-control" id="subject" name="subject"
                                             placeholder="Subject">
                                     </div>
                                 </div>
@@ -283,6 +283,9 @@
     <script src="js/plugins.js"></script>
     <!-- Active js -->
     <script src="js/active.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/emailjs-com@2.6.4/dist/email.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="js/email.js"></script>
 
 </body>
 
