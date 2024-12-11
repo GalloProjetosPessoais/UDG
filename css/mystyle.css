@@ -16,6 +16,10 @@
   font-size: 40px;
 }
 
+.portfolio-area {
+  overflow: hidden;
+}
+
 
 @media only screen and (max-width: 767px) {
   .portfolio-title .start {
